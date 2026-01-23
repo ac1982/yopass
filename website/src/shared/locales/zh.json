@@ -92,25 +92,25 @@
   },
   "features": {
     "title": "轻松安全地分享密文",
-    "subtitle": "Yopass 旨在减少电子邮件和聊天对话中明文密码的存储，通过加密并生成一个只能查看一次的短期链接来实现。",
+    "subtitle": "泡影｜Mirage 旨在减少电子邮件和聊天对话中明文密码的存储，通过加密并生成一个只能查看一次的短期链接来实现。",
     "featureEndToEndTitle": "端到端加密",
-    "featureEndToEndText": "加密和解密都在浏览器本地完成。密钥永远不会存储在 Yopass 中。",
+    "featureEndToEndText": "加密和解密都在浏览器本地完成。密钥永远不会存储在 泡影｜Mirage 中。",
     "featureSelfDestructionTitle": "自动销毁",
     "featureSelfDestructionText": "加密消息有固定的有效期，过期后将自动删除。",
     "featureOneTimeTitle": "一次性下载",
     "featureOneTimeText": "加密消息只能下载一次，降低了密文被窥探的风险。",
     "featureSimpleSharingTitle": "简单分享",
-    "featureSimpleSharingText": "Yopass 为加密文件或消息生成唯一的一键链接。解密密码也可以选择单独发送。",
+    "featureSimpleSharingText": "泡影｜Mirage 为加密文件或消息生成唯一的一键链接。解密密码也可以选择单独发送。",
     "featureNoAccountsTitle": "无需账户",
     "featureNoAccountsText": "分享应该快速简便；除加密密文外，数据库中不存储任何额外信息。",
     "featureOpenSourceTitle": "开源软件",
-    "featureOpenSourceText": "Yopass 的加密机制基于开源软件构建，这意味着完全透明，可以审计和提交功能。"
+    "featureOpenSourceText": "泡影｜Mirage 的加密机制基于开源软件构建，这意味着完全透明，可以审计和提交功能。"
   },
   "header": {
     "buttonHome": "首页",
     "buttonUpload": "上传",
     "buttonText": "文本",
-    "appName": "Yopass"
+    "appName": "泡影｜Mirage"
   },
   "common": {
     "copy": "复制",
@@ -119,6 +119,6 @@
   "footer": {
     "privacyNotice": "隐私声明",
     "imprint": "版权信息",
-    "createdBy": "创建者"
+    "createdBy": "2026 copyright 律动团队"
   }
 }

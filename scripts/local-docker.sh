@@ -10,8 +10,8 @@ ROOT="$(git rev-parse --show-toplevel 2>/dev/null || true)"
 COMPOSE_FILE="$ROOT/deploy/docker-compose/insecure/docker-compose.yml"
 [[ -f "$COMPOSE_FILE" ]] || fail "missing $COMPOSE_FILE"
 
-if ! grep -q "image: yopass-local" "$COMPOSE_FILE"; then
-  fail "compose is not configured for local image; set image: yopass-local"
+if ! grep -q "image: mirage" "$COMPOSE_FILE"; then
+  fail "compose is not configured for local image; set image: mirage"
 fi
 if ! grep -q "build: ../../.." "$COMPOSE_FILE"; then
   fail "compose is missing build context; add build: ../../.."
@@ -25,8 +25,8 @@ else
   fail "docker compose not available; install docker-compose or Docker Desktop"
 fi
 
-step "Build local image (yopass-local)"
-docker build -t yopass-local "$ROOT"
+step "Build local image (mirage)"
+docker build -t mirage "$ROOT"
 
 step "Start containers"
 "${COMPOSE[@]}" -f "$COMPOSE_FILE" up -d
@@ -34,5 +34,5 @@ step "Start containers"
 step "Status"
 "${COMPOSE[@]}" -f "$COMPOSE_FILE" ps
 
-echo "OK: yopass-local running at http://localhost"
+echo "OK: mirage running at http://localhost"
 echo "Hint: to clean unused layers run: docker system prune -f"

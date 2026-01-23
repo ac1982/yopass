@@ -12,5 +12,5 @@ services:
     build: ../../..
     restart: always
     ports:
-      - "127.0.0.1:80:80"
+      - "127.0.0.1:8080:80"
     command: "--memcached=memcached:11211 --port 80"

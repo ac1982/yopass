@@ -47,7 +47,7 @@ i18n
         translation: zh,
       },
     },
-    fallbackLng: 'en',
+    fallbackLng: ['zh', 'en'],
     debug: false,
 
     interpolation: {
@@ -55,7 +55,7 @@ i18n
     },
 
     detection: {
-      order: ['localStorage', 'navigator', 'htmlTag'],
+      order: ['localStorage', 'htmlTag', 'navigator'],
       caches: [], // Don't cache auto-detected language
     },
   });

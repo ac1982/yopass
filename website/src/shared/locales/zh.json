@@ -71,9 +71,7 @@
     "subtitleMessage": "此密文将无法再次访问。请务必立即保存！",
     "buttonCopy": "复制",
     "buttonCopyToClipboard": "复制到剪贴板",
-    "buttonCopied": "已复制！",
-    "showQrCode": "显示二维码",
-    "hideQrCode": "隐藏二维码"
+    "buttonCopied": "已复制！"
   },
   "delete": {
     "buttonDelete": "删除",

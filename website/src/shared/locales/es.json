@@ -71,9 +71,7 @@
     "subtitleMessage": "Este secreto no podrá visualizarse nuevamente. ¡Asegúrese de guardarlo ahora!",
     "buttonCopy": "Copiar",
     "buttonCopyToClipboard": "Copiar al portapapeles",
-    "buttonCopied": "¡Copiado!",
-    "showQrCode": "Mostrar código QR",
-    "hideQrCode": "Ocultar código QR"
+    "buttonCopied": "¡Copiado!"
   },
   "delete": {
     "buttonDelete": "Eliminar",

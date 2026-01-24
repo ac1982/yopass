@@ -71,9 +71,7 @@
     "subtitleMessage": "Dieses Geheimnis wird nicht erneut zugänglich sein. Stelle sicher, dass du es jetzt speicherst!",
     "buttonCopy": "Kopieren",
     "buttonCopyToClipboard": "In Zwischenablage kopieren",
-    "buttonCopied": "Kopiert!",
-    "showQrCode": "QR-Code anzeigen",
-    "hideQrCode": "QR-Code ausblenden"
+    "buttonCopied": "Kopiert!"
   },
   "delete": {
     "buttonDelete": "Löschen",

@@ -71,9 +71,7 @@
     "subtitleMessage": "Ten sekret nie będzie już dostępny. Zapisz go teraz!",
     "buttonCopy": "Kopiuj",
     "buttonCopyToClipboard": "Kopiuj do schowka",
-    "buttonCopied": "Skopiowano!",
-    "showQrCode": "Pokaż kod QR",
-    "hideQrCode": "Ukryj kod QR"
+    "buttonCopied": "Skopiowano!"
   },
   "delete": {
     "buttonDelete": "Usuń",

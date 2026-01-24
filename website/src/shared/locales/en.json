@@ -71,9 +71,7 @@
     "subtitleMessage": "This secret will not be accessible again. Make sure to save it now!",
     "buttonCopy": "Copy",
     "buttonCopyToClipboard": "Copy to Clipboard",
-    "buttonCopied": "Copied!",
-    "showQrCode": "Show QR Code",
-    "hideQrCode": "Hide QR Code"
+    "buttonCopied": "Copied!"
   },
   "delete": {
     "buttonDelete": "Delete",

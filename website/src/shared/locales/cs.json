@@ -71,9 +71,7 @@
     "subtitleMessage": "Tato tajná zpráva nebude znovu dostupná. Ujistěte se, že ji máte uloženou!",
     "buttonCopy": "Kopírovat",
     "buttonCopyToClipboard": "Kopírovat",
-    "buttonCopied": "Zkopírováno!",
-    "showQrCode": "Zobrazit QR kód",
-    "hideQrCode": "Skrýt QR kód"
+    "buttonCopied": "Zkopírováno!"
   },
   "delete": {
     "buttonDelete": "Smazat",

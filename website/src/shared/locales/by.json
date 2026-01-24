@@ -71,9 +71,7 @@
     "subtitleMessage": "Гэты сакрэт больш не будзе даступны. Абавязкова захавайце яго зараз!",
     "buttonCopy": "Скапіраваць",
     "buttonCopyToClipboard": "Скапіраваць у буфер абмену",
-    "buttonCopied": "Скапіравана!",
-    "showQrCode": "Паказаць QR-код",
-    "hideQrCode": "Схаваць QR-код"
+    "buttonCopied": "Скапіравана!"
   },
   "delete": {
     "buttonDelete": "Выдаліць",

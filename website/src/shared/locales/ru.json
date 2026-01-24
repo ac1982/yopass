@@ -71,9 +71,7 @@
     "subtitleMessage": "Этот секрет больше не будет доступен. Сохраните его сейчас!",
     "buttonCopy": "Копировать",
     "buttonCopyToClipboard": "Скопировать в буфер обмена",
-    "buttonCopied": "Скопировано!",
-    "showQrCode": "Показать QR-код",
-    "hideQrCode": "Скрыть QR-код"
+    "buttonCopied": "Скопировано!"
   },
   "delete": {
     "buttonDelete": "Удалить",

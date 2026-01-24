@@ -70,9 +70,7 @@
     "subtitleMessage": "Ce secret ne sera peut-être plus consultable, veillez à le conserver !",
     "buttonCopy": "Copier",
     "buttonCopyToClipboard": "Copier dans le presse-papier",
-    "buttonCopied": "Copié !",
-    "showQrCode": "Afficher le QR Code",
-    "hideQrCode": "Cacher le QR Code"
+    "buttonCopied": "Copié !"
   },
   "delete": {
     "buttonDelete": "Supprimer",

@@ -71,9 +71,7 @@
     "subtitleMessage": "Dit geheim zal niet opnieuw toegankelijk zijn. Zorg ervoor dat je het nu opslaat!",
     "buttonCopy": "Kopiëren",
     "buttonCopyToClipboard": "Kopiëren naar klembord",
-    "buttonCopied": "Gekopieerd!",
-    "showQrCode": "Toon QR-code",
-    "hideQrCode": "Verberg QR-code"
+    "buttonCopied": "Gekopieerd!"
   },
   "delete": {
     "buttonDelete": "Verwijderen",

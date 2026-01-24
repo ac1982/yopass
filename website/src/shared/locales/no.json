@@ -71,9 +71,7 @@
     "subtitleMessage": "Denne hemmeligheten er kun tilgjengelig nå, pass på å lagre den!",
     "buttonCopy": "Kopiér",
     "buttonCopyToClipboard": "Kopier til utklippstavlen",
-    "buttonCopied": "Kopiert!",
-    "showQrCode": "Vis QR-kode",
-    "hideQrCode": "Skjul QR-kode"
+    "buttonCopied": "Kopiert!"
   },
   "delete": {
     "buttonDelete": "Slett",

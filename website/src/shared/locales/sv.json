@@ -71,9 +71,7 @@
     "subtitleMessage": "Ditt meddelande kommer inte att vara tillgänglig igen. Se till att spara det nu!",
     "buttonCopy": "Kopiera",
     "buttonCopyToClipboard": "Kopiera till urklipp",
-    "buttonCopied": "Kopierad!",
-    "showQrCode": "Visa QR-kod",
-    "hideQrCode": "Dölj QR-kod"
+    "buttonCopied": "Kopierad!"
   },
   "delete": {
     "buttonDelete": "Ta bort",

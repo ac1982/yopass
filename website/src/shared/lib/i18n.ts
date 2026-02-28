@@ -3,7 +3,7 @@ import { initReactI18next } from 'react-i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 
 // Import translations
-import { en, sv, no, de, cs, pl, by, ru, fr, nl, es } from '../locales';
+import { en, sv, no, de, cs, pl, by, ru, fr, nl, es, zh } from '../locales';
 
 i18n
   .use(initReactI18next)
@@ -43,8 +43,11 @@ i18n
       es: {
         translation: es,
       },
+      zh: {
+        translation: zh,
+      },
     },
-    fallbackLng: 'en',
+    fallbackLng: ['zh', 'en'],
     debug: false,
 
     interpolation: {
@@ -52,7 +55,7 @@ i18n
     },
 
     detection: {
-      order: ['localStorage', 'navigator', 'htmlTag'],
+      order: ['localStorage', 'htmlTag', 'navigator'],
       caches: [], // Don't cache auto-detected language
     },
   });

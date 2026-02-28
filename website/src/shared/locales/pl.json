@@ -71,9 +71,7 @@
     "subtitleMessage": "Ten sekret nie będzie już dostępny. Zapisz go teraz!",
     "buttonCopy": "Kopiuj",
     "buttonCopyToClipboard": "Kopiuj do schowka",
-    "buttonCopied": "Skopiowano!",
-    "showQrCode": "Pokaż kod QR",
-    "hideQrCode": "Ukryj kod QR"
+    "buttonCopied": "Skopiowano!"
   },
   "delete": {
     "buttonDelete": "Usuń",
@@ -92,25 +90,25 @@
   },
   "features": {
     "title": "Udostępniaj sekrety bezpiecznie i łatwo",
-    "subtitle": "Yopass powstał, aby ograniczyć ilość poufnych danych przesyłanych otwartym tekstem w e-mailach i komunikatorach – szyfruje i generuje krótkotrwały link dostępny tylko raz.",
+    "subtitle": "泡影｜Mirage powstał, aby ograniczyć ilość poufnych danych przesyłanych otwartym tekstem w e-mailach i komunikatorach – szyfruje i generuje krótkotrwały link dostępny tylko raz.",
     "featureEndToEndTitle": "Szyfrowanie end-to-end",
-    "featureEndToEndText": "Szyfrowanie i deszyfrowanie odbywają się lokalnie w przeglądarce. Klucz nigdy nie jest przechowywany przez Yopass.",
+    "featureEndToEndText": "Szyfrowanie i deszyfrowanie odbywają się lokalnie w przeglądarce. Klucz nigdy nie jest przechowywany przez 泡影｜Mirage.",
     "featureSelfDestructionTitle": "Samozniszczenie",
     "featureSelfDestructionText": "Zaszyfrowane wiadomości mają określony czas życia i są automatycznie usuwane po jego upływie.",
     "featureOneTimeTitle": "Jednorazowe pobranie",
     "featureOneTimeText": "Zaszyfrowaną wiadomość można pobrać tylko raz, co minimalizuje ryzyko nieautoryzowanego wglądu.",
     "featureSimpleSharingTitle": "Proste udostępnianie",
-    "featureSimpleSharingText": "Yopass generuje unikalny link jednego kliknięcia do zaszyfrowanej wiadomości lub pliku. Hasło deszyfrujące można wysłać osobno.",
+    "featureSimpleSharingText": "泡影｜Mirage generuje unikalny link jednego kliknięcia do zaszyfrowanej wiadomości lub pliku. Hasło deszyfrujące można wysłać osobno.",
     "featureNoAccountsTitle": "Bez kont i logowania",
     "featureNoAccountsText": "Udostępnianie ma być szybkie i łatwe – jedyne dane przechowywane na serwerze to zaszyfrowany sekret.",
     "featureOpenSourceTitle": "Oprogramowanie open source",
-    "featureOpenSourceText": "Mechanizm szyfrowania Yopass opiera się na oprogramowaniu open source – pełna przejrzystość i możliwość audytu."
+    "featureOpenSourceText": "Mechanizm szyfrowania 泡影｜Mirage opiera się na oprogramowaniu open source – pełna przejrzystość i możliwość audytu."
   },
   "header": {
     "buttonHome": "Strona główna",
     "buttonUpload": "Wgraj",
     "buttonText": "Tekst",
-    "appName": "Yopass"
+    "appName": "泡影｜Mirage"
   },
   "common": {
     "copy": "Kopiuj",
@@ -119,6 +117,6 @@
   "footer": {
     "privacyNotice": "Polityka prywatności",
     "imprint": "Informacje prawne",
-    "createdBy": "Stworzone przez"
+    "createdBy": "© 2026 律动团队"
   }
 }

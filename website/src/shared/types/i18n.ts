@@ -73,8 +73,6 @@ export interface TranslationResources {
     buttonCopy: string;
     buttonCopyToClipboard: string;
     buttonCopied: string;
-    showQrCode: string;
-    hideQrCode: string;
   };
   delete: {
     buttonDelete: string;

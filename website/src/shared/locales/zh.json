@@ -1,0 +1,122 @@
+{
+  "create": {
+    "title": "加密消息",
+    "inputSecretLabel": "你的密文",
+    "inputSecretPlaceholder": "输入你的密文...",
+    "buttonEncrypt": "加密消息",
+    "inputCustomPasswordLabel": "自定义密码",
+    "inputCustomPasswordPlaceholder": "输入你的密码...",
+    "inputOneTimeLabel": "仅限一次下载",
+    "inputGenerateKeyLabel": "生成解密密钥"
+  },
+  "upload": {
+    "title": "上传文件",
+    "buttonUpload": "上传",
+    "uploadFileButton": "上传文件",
+    "dragDropText": "拖放或点击选择文件",
+    "fileDescription": "文件上传适用于小文件，如 SSH 密钥和证书。",
+    "errorSelectFile": "请选择要上传的文件",
+    "errorFailedToRead": "读取文件失败",
+    "expirationLegendFile": "加密文件将在以下时间后自动删除"
+  },
+  "display": {
+    "titleDecrypting": "解密中...",
+    "titleDecryptionKey": "输入解密密钥",
+    "captionDecryptionKey": "请勿刷新此窗口，因为密文可能仅限一次下载。",
+    "inputDecryptionKeyPlaceholder": "解密密钥",
+    "inputDecryptionKeyLabel": "需要解密密钥，请在下方输入",
+    "errorInvalidPassword": "密码无效，请重试",
+    "buttonDecrypt": "解密密文",
+    "decryptingMessage": "正在解密你的密文…",
+    "errorInvalidPasswordDetailed": "密码无效，请重试。",
+    "buttonDecryptSecret": "解密密文",
+    "loading": "加载中...",
+    "secureMessageTitle": "安全消息",
+    "secureMessageSubtitle": "你收到了一条只能查看一次的安全消息",
+    "importantTitle": "重要提示",
+    "oneTimeWarning": "此消息在查看后将自动销毁。一旦显示，将无法再次访问。",
+    "oneTimeWarningReady": "请确保你现在已准备好查看。",
+    "buttonRevealMessage": "显示安全消息"
+  },
+  "error": {
+    "title": "密文不存在",
+    "subtitle": "可能是以下原因之一造成的。",
+    "titleOpened": "已被打开过",
+    "subtitleOpenedBefore": "密文可能被限制为仅能下载一次。可能是因为发送者在你查看之前点击了此链接。",
+    "subtitleOpenedCompromised": "密文可能已被泄露并被他人读取。你应该联系发送者并请求新的密文。",
+    "titleBrokenLink": "链接损坏",
+    "subtitleBrokenLink": "链接必须完全匹配才能正常解密，可能缺少一些关键字符。",
+    "titleExpired": "已过期",
+    "subtitleExpired": "没有密文会永久保存。所有存储的密文都会过期并自动销毁。有效期从一小时到一周不等。"
+  },
+  "result": {
+    "title": "密文已安全存储",
+    "subtitle": "你的密文已加密并存储。分享这些链接以提供访问权限。",
+    "subtitleDownloadOnce": "密文只能下载一次。因此请勿自己打开链接。谨慎起见，建议通过其他通信渠道发送解密密钥。",
+    "reminderTitle": "请记住",
+    "rowLabelOneClick": "一键链接",
+    "rowOneClickDescription": "分享此链接可直接访问密文",
+    "rowLabelShortLink": "短链接",
+    "rowShortLinkDescription": "需要单独分享解密密钥",
+    "rowLabelDecryptionKey": "解密密钥",
+    "rowDecryptionKeyDescription": "使用短链接解密消息时需要此密钥",
+    "buttonCreateAnother": "创建另一个密文"
+  },
+  "secret": {
+    "titleFile": "文件已下载",
+    "subtitleFile": "你的文件已解密并下载。如需再次下载，请点击下方按钮。",
+    "fileDownloaded": "文件已下载",
+    "buttonDownloadFile": "再次下载文件",
+    "titleMessage": "已解密的消息",
+    "subtitleMessage": "此密文将无法再次访问。请务必立即保存！",
+    "buttonCopy": "复制",
+    "buttonCopyToClipboard": "复制到剪贴板",
+    "buttonCopied": "已复制！"
+  },
+  "delete": {
+    "buttonDelete": "删除",
+    "messageDeleted": "密文已从服务器删除！",
+    "dialogTitle": "删除密文？",
+    "dialogMessage": "你确定要删除此密文吗？",
+    "dialogProgress": "删除中...",
+    "dialogConfirm": "删除",
+    "dialogCancel": "取消"
+  },
+  "expiration": {
+    "legend": "自动删除时间",
+    "optionOneHourLabel": "一小时",
+    "optionOneDayLabel": "一天",
+    "optionOneWeekLabel": "一周"
+  },
+  "features": {
+    "title": "轻松安全地分享密文",
+    "subtitle": "泡影｜Mirage 旨在减少电子邮件和聊天对话中明文密码的存储，通过加密并生成一个只能查看一次的短期链接来实现。",
+    "featureEndToEndTitle": "端到端加密",
+    "featureEndToEndText": "加密和解密都在浏览器本地完成。密钥永远不会存储在 泡影｜Mirage 中。",
+    "featureSelfDestructionTitle": "自动销毁",
+    "featureSelfDestructionText": "加密消息有固定的有效期，过期后将自动删除。",
+    "featureOneTimeTitle": "一次性下载",
+    "featureOneTimeText": "加密消息只能下载一次，降低了密文被窥探的风险。",
+    "featureSimpleSharingTitle": "简单分享",
+    "featureSimpleSharingText": "泡影｜Mirage 为加密文件或消息生成唯一的一键链接。解密密码也可以选择单独发送。",
+    "featureNoAccountsTitle": "无需账户",
+    "featureNoAccountsText": "分享应该快速简便；除加密密文外，数据库中不存储任何额外信息。",
+    "featureOpenSourceTitle": "开源软件",
+    "featureOpenSourceText": "泡影｜Mirage 的加密机制基于开源软件构建，这意味着完全透明，可以审计和提交功能。"
+  },
+  "header": {
+    "buttonHome": "首页",
+    "buttonUpload": "上传",
+    "buttonText": "文本",
+    "appName": "泡影｜Mirage"
+  },
+  "common": {
+    "copy": "复制",
+    "copied": "已复制！"
+  },
+  "footer": {
+    "privacyNotice": "隐私声明",
+    "imprint": "版权信息",
+    "createdBy": "© 2026 律动团队"
+  }
+}

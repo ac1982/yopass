@@ -40,7 +40,7 @@ export default function Navbar() {
             >
               <img
                 src="/yopass.svg"
-                alt="Yopass logo"
+                alt="Mirage logo"
                 className="h-8 w-8 mr-3"
               />
               {t('header.appName')}

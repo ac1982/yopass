@@ -71,9 +71,7 @@
     "subtitleMessage": "Este secreto no podrá visualizarse nuevamente. ¡Asegúrese de guardarlo ahora!",
     "buttonCopy": "Copiar",
     "buttonCopyToClipboard": "Copiar al portapapeles",
-    "buttonCopied": "¡Copiado!",
-    "showQrCode": "Mostrar código QR",
-    "hideQrCode": "Ocultar código QR"
+    "buttonCopied": "¡Copiado!"
   },
   "delete": {
     "buttonDelete": "Eliminar",
@@ -92,25 +90,25 @@
   },
   "features": {
     "title": "Comparta secretos de forma segura y sencilla",
-    "subtitle": "Yopass fue creado para reducir la cantidad de contraseñas y secretos en texto plano enviados por correo electrónico o mensajería. Cifra la información y genera un enlace temporal que solo puede verse una vez.",
+    "subtitle": "泡影｜Mirage fue creado para reducir la cantidad de contraseñas y secretos en texto plano enviados por correo electrónico o mensajería. Cifra la información y genera un enlace temporal que solo puede verse una vez.",
     "featureEndToEndTitle": "Cifrado de extremo a extremo",
-    "featureEndToEndText": "El cifrado y el descifrado se realizan localmente en su navegador. La clave de desencriptación nunca se almacena en Yopass.",
+    "featureEndToEndText": "El cifrado y el descifrado se realizan localmente en su navegador. La clave de desencriptación nunca se almacena en 泡影｜Mirage.",
     "featureSelfDestructionTitle": "Autodestrucción automática",
     "featureSelfDestructionText": "Los mensajes cifrados tienen un tiempo de vida limitado y se eliminan automáticamente al expirar.",
     "featureOneTimeTitle": "Descargas únicas",
     "featureOneTimeText": "El mensaje cifrado solo puede descargarse una vez, reduciendo el riesgo de acceso no autorizado.",
     "featureSimpleSharingTitle": "Compartición sencilla",
-    "featureSimpleSharingText": "Yopass genera un enlace rápido para acceder al mensaje o archivo cifrado. La clave de desencriptación puede enviarse por separado.",
+    "featureSimpleSharingText": "泡影｜Mirage genera un enlace rápido para acceder al mensaje o archivo cifrado. La clave de desencriptación puede enviarse por separado.",
     "featureNoAccountsTitle": "Sin necesidad de cuentas",
     "featureNoAccountsText": "Compartir debe ser rápido y sencillo. No se almacena ninguna información adicional además del secreto cifrado.",
     "featureOpenSourceTitle": "Software libre y de código abierto",
-    "featureOpenSourceText": "El mecanismo de cifrado de Yopass está basado en software libre y abierto, garantizando transparencia y la posibilidad de auditoría o mejora del código."
+    "featureOpenSourceText": "El mecanismo de cifrado de 泡影｜Mirage está basado en software libre y abierto, garantizando transparencia y la posibilidad de auditoría o mejora del código."
   },
   "header": {
     "buttonHome": "Inicio",
     "buttonUpload": "Subir archivo",
     "buttonText": "Texto",
-    "appName": "Yopass"
+    "appName": "泡影｜Mirage"
   },
   "common": {
     "copy": "Copiar",
@@ -119,6 +117,6 @@
   "footer": {
     "privacyNotice": "Aviso de privacidad",
     "imprint": "Aviso legal",
-    "createdBy": "Creado por"
+    "createdBy": "© 2026 律动团队"
   }
 }
